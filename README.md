@@ -130,8 +130,8 @@ Two models are trained and rigorously compared: a **Logistic Regression** baseli
 ```
 .
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv   ← Raw dataset (place in root)
-├── Vedant_TelcoCustomerChurn.ipynb        ← Main analysis notebook (8 cells)
-├── Vedant_ProjectReport.docx              ← Full academic report
+├── VedantVarshney_TelcoCustomerChurn.ipynb        ← Main analysis notebook (8 cells)
+├── VedantVarshney_ProjectReport.docx              ← Full academic report
 ├── requirements.txt                       ← Pinned Python dependencies
 └── README.md                              ← This file
 ```
@@ -179,7 +179,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Then open `Vedant_TelcoCustomerChurn.ipynb` in the browser tab that appears and execute cells sequentially using **Shift + Enter**, or run all at once via **Kernel → Restart & Run All**.
+Then open `VedantVarshney_TelcoCustomerChurn.ipynb` in the browser tab that appears and execute cells sequentially using **Shift + Enter**, or run all at once via **Kernel → Restart & Run All**.
 
 ---
 
@@ -242,5 +242,5 @@ Customers without `TechSupport` or `OnlineSecurity` show significantly elevated 
 ---
 
 <div align="center">
-  <sub>IBM SkillsBuild Data Analytics with AI Academic Internship &nbsp;|&nbsp; BharatCares × AICTE &nbsp;|&nbsp; Candidate: Vedant</sub>
+  <sub>IBM SkillsBuild Data Analytics with AI Academic Internship &nbsp;|&nbsp; BharatCares × AICTE &nbsp;|&nbsp; Candidate: Vedant Varshney</sub>
 </div>
